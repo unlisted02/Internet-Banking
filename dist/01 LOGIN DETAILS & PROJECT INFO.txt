@@ -1,8 +1,6 @@
-**Log on to codeastro.com for more projects!***
-
 **Database Name: internetbanking**
 
-**Developed by Martin Mbithi**
+**Developed by Unlisted**
 
 **Recommended PHP Version 5, 7, 8**
 
